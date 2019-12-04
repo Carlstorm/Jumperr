@@ -1,0 +1,2 @@
+video skal ikke være under forside
+fix mobile menu
